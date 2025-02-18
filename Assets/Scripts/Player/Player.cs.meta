@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a9606ab88ccbe1f44a7810312c9e1761
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - estadiscasJugador: {instanceID: 0}
+  - uiManager: {instanceID: 0}
+  - rigid: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - ModeloJugador: {instanceID: 0}
+  - disparador: {instanceID: 0}
+  - periodicoPre: {fileID: 786045194181003757, guid: 08d78b4d694211146993a087e6413ac9, type: 3}
+  - periodicoVIP: {fileID: 786045194181003757, guid: 2605418ad8270aa4e8a0d1029c5a9549, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
